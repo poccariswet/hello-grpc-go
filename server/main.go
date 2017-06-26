@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	pb "github.com/soeyusuke/grpc-pra-go/helloworld"
+	pb "github.com/soeyusuke/hello-grpc-go/helloworld"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
